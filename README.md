@@ -1,7 +1,6 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
-## Project/Goals
-(fill in your description and goals here)
+Q1:- what are the project goals for this project?
 
 ## Process
 ### (your step 1)
