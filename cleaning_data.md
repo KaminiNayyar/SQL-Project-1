@@ -10,13 +10,15 @@ ans: steps taken to ensure the data looks as clean as possible:
 Queries:
 Below, provide the SQL queries you used to clean your data.
 
-Query 1: select visit_number,
+Query 1: 
+        
+        select visit_number,
                 visitid, to_timestamp(visit_start_time) as visit_start_time,
                 d_ate, full_visitor_id, channel_grouping, 
                 social_engagement_type,
                 page_views, bounces, 
                 cast(unit_price as float)/ 1000000 as unitprice
-               from analytics
+            from analytics
 
 
 

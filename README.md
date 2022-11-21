@@ -17,5 +17,6 @@ to get the job done.
 4) and many more...
 
 ## Future Goals
-- I would hope my future self would just learn how to quickly transport a data from one medium to the other.
+-Future goal is to learn how to quickly transport a data from one medium to the other.
+
 
