@@ -16,11 +16,9 @@ Query 1: select visit_number,
                 social_engagement_type,
                 page_views, bounces, 
                 cast(unit_price as float)/ 1000000 as unitprice
- <html>               from analytics
-<body>
-<img src= <"C:\Users\kamini\Pictures\Screenshots\Screenshot_20221120_105439.png"/>
-</body>
-</html>
+               from analytics
+
+
 
 Explanation: query1 represents the usage of above mentioned 3) and 4).
 
