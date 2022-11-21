@@ -10,7 +10,10 @@ to get the job done.
 ### Asked peers for help whenever needed and researched online tutorials to make it simple.
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+1) The data could tell the insights about which country generates the most revenue.
+2) what are the preferences of the unique customers from different countries and what are the similarities between them.
+3) Also tells, a website owner would benefit the most if he would take help from digital marketting and only use those stratergies in the countries where people tend to get influenced by them.
+
 
 ## Challenges 
 1) Importing the data was the first challenge.
